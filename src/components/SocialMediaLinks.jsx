@@ -8,6 +8,7 @@ function SocialMediaLinks() {
           width="24"
           height="24"
           viewBox="0 0 20 20"
+          className="lg:h-5 lg:w-5"
         >
           <path
             fill="#FFF"
@@ -26,6 +27,7 @@ function SocialMediaLinks() {
           width="24"
           height="24"
           viewBox="0 0 21 20"
+          className="lg:h-5 lg:w-5"
         >
           <path
             fill="#FFF"
@@ -44,6 +46,7 @@ function SocialMediaLinks() {
           width="24"
           height="24"
           viewBox="0 0 21 18"
+          className="lg:h-5 lg:w-5"
         >
           <path
             fill="#FFF"
@@ -62,6 +65,7 @@ function SocialMediaLinks() {
           width="24"
           height="24"
           viewBox="0 0 20 20"
+          className="lg:h-5 lg:w-5"
         >
           <path
             fill="#FFF"
@@ -80,6 +84,7 @@ function SocialMediaLinks() {
           width="24"
           height="24"
           viewBox="0 0 21 20"
+          className="lg:h-5 lg:w-5"
         >
           <path
             fill="#FFF"
